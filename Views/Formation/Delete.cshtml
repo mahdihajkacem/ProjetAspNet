@@ -1,0 +1,33 @@
+﻿@model GestionFormation.Models.Formation
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Êtes-vous sûr de vouloir supprimer cet formation ?</h3>
+<div>
+    <h4>Formation</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FormationName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FormationName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FormationAdress)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FormationAdress)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="FormationID" />
+        <input type="submit" value="Supprimer" class="btn btn-danger" /> |
+        <a asp-action="Index">Liste des formations</a>
+    </form>
+</div>

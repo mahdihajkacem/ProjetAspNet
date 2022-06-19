@@ -1,0 +1,41 @@
+﻿@model IEnumerable<GestionFormation.Models.Formation>
+
+@{
+    ViewData["Title"] = "Formations";
+}
+
+<h1>Formations</h1>
+
+<p>
+    <a asp-action="Create">Ajouter une formation</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FormationName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FormationAdress)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FormationName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FormationAdress)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.FormationID">Modifier</a> |
+                <a asp-action="Details" asp-route-id="@item.FormationID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.FormationID">Supprimer</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

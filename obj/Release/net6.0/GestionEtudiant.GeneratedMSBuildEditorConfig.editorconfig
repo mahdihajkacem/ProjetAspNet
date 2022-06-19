@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GestionEtudiant
+build_property.RootNamespace = GestionEtudiant
+build_property.ProjectDir = C:\Users\AtnomIV\Desktop\GESTION-DES-ETUDIANTS-master\GESTION-DES-ETUDIANTS-master\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\AtnomIV\Desktop\GESTION-DES-ETUDIANTS-master\GESTION-DES-ETUDIANTS-master
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Admin/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Admin/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Admin/EditUsersInRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXJzSW5Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Admin/ListRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdFJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Formation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWF0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Formation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWF0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Formation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWF0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Formation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWF0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Formation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWF0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Home/realisation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWFsaXNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Participants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Participants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Participants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Participants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Participants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGljaXBhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/AtnomIV/Desktop/GESTION-DES-ETUDIANTS-master/GESTION-DES-ETUDIANTS-master/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vbj1z4uky3
